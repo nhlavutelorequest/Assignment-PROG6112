@@ -1,6 +1,6 @@
 # Assignment-PROG6112
 ### Here is the Referance for SECTION A  and SECTION B 
-## NB: Find everything to Master branch
+## NB: Find everything at Master branch
 
 
 ## Section A
